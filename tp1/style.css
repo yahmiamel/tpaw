@@ -1,0 +1,26 @@
+td{
+    border:1px solid black;
+    padding:4px;
+}
+
+table{
+    border:1px solid black;
+    width="100%";
+    background-color: white;
+}
+img{
+    width:2em;
+    height:3em;
+}
+body{
+    background-color: gray;
+}
+a:hover{
+    color:orange;
+}
+tr:nth-child(2n+1){
+    background-color: palegoldenrod;
+}
+tr:hover{
+    color:red;
+}
