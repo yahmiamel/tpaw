@@ -1,0 +1,57 @@
+
+label{
+    display: :block;
+    width:150px;
+    float:left;
+    padding: 3px;
+    
+
+}
+form{
+    border:2px solid white;
+    width:50%;
+    background-color:white;
+    margin:0 auto;
+   
+}
+body{
+    background-color: gray;
+}
+.d1{
+    display: :block;
+  
+    float:left;
+}
+
+#button{
+    margin-left:150px;
+    border-radius: 1em;
+
+}
+
+#error{
+
+    background-color: pink;
+    padding: 50px;
+    border: 1px solid black;
+    width: 43%;
+    text-align: center;
+    margin: 0 auto;
+
+    
+    
+
+}
+#Resultat{
+     background-color : green;
+     padding : 5px;
+     text-decoration-color: white;
+     border: 50px solid green;
+     width: 43%;
+     margin: 0 auto;
+}
+h1{
+    text-indent:310px;
+    font-weight: 600;
+    font-size: 40px;
+}
